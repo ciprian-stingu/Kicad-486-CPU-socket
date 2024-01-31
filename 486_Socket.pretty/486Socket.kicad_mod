@@ -197,7 +197,7 @@
   (pad "S15" thru_hole circle (at 2.54 38.1) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 7eda9556-cb89-41df-8eed-2b3dfeafdec0))
   (pad "S16" thru_hole circle (at 2.54 40.64) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 2c5af87e-fd58-44fe-a5d0-57a84cc4691b))
   (pad "S17" thru_hole circle (at 2.54 43.18) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp a1aff092-12b1-426d-93d9-0fd1de9facf9))
-  (model "/home/ciprian/Electronics/kicad/486_Socket/486_Socket.step"
+  (model "../486_Socket.step"
     (offset (xyz 0.4 -45.25 1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
